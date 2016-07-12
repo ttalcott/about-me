@@ -12,13 +12,24 @@
 			<!--add picture here-->
 		</header>
 		<main>
-			<p>
-				<!--short paragraph about interests-->
+			<!--short paragraph about interests-->
+			<p> I dont know what to say yet yo
 			</p>
-			<!--add picture here-->
+			<!--add picture(s) here-->
 			<p>
 				<!--paragraph about what i do on the daily-->
 			</p>
+			<!--picture of grand canyon-->
+			<table>
+				<tr>
+					<td>
+						<img src="images/stormtrooper.jpg" />
+					</td>
+					<td>
+						<img src="images/kylo.jpeg" />
+					</td>
+				</tr>
+			</table>
 		</main>
 		<footer>
 			&copy; Travis Talcott 2016
