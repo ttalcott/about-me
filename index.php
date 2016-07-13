@@ -20,6 +20,7 @@
 				<!--paragraph about what i do on the daily-->
 			</p>
 			<!--picture of grand canyon-->
+			<img src="images/grand-canyon.jpeg" />
 			<table>
 				<tr>
 					<td>
