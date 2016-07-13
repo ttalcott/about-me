@@ -1,0 +1,26 @@
+h1 {
+	color: firebrick;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 6.25em;
+	margin: 0;
+	padding: 0;
+}
+h2 {
+	text-align: center;
+	color: firebrick;
+	font-size: 3em;
+	margin-top: 2px;
+}
+.red {
+	color: red;
+}
+div.polaroid {
+	max-width: 80%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 25px;
+}
+div.container {
+	text-align: center;
+}

@@ -13,24 +13,20 @@
 		</header>
 		<main>
 			<!--short paragraph about interests-->
-			<p> I dont know what to say yet yo
+			<p class="red"> 
 			</p>
 			<!--add picture(s) here-->
 			<p>
 				<!--paragraph about what i do on the daily-->
 			</p>
 			<!--picture of grand canyon-->
-			<img src="images/grand-canyon.jpeg" />
-			<table>
-				<tr>
-					<td>
-						<img src="images/stormtrooper.jpg" />
-					</td>
-					<td>
-						<img src="images/kylo.jpeg" />
-					</td>
-				</tr>
-			</table>
+			<div class="polaroid">
+				<img src="images/grandCanyon.jpeg" alt="Grand Canyon" style="max-width: 100%"/>
+				<div class="container">
+					<p> I will be hiking the Grand Canyon rim-to-rim... In a day!</p>
+				</div>
+			</div>
+			
 		</main>
 		<footer>
 			&copy; Travis Talcott 2016
