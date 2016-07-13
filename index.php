@@ -21,7 +21,7 @@
 			</p>
 			<!--picture of grand canyon-->
 			<div class="polaroid">
-				<img src="images/grandCanyon.jpeg" alt="Grand Canyon" style="max-width: 100%"/>
+				<img src="images/grandCanyon.jpeg" alt="Grand Canyon" style="max-width: 100% height: auto" />
 				<div class="container">
 					<p> I will be hiking the Grand Canyon rim-to-rim... In a day!</p>
 				</div>
