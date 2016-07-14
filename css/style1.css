@@ -1,10 +1,8 @@
-body {
-	background: linear-gradient(rgba(35, 33, 34, 1.0), white)
-}
 .header {
-	color: white;
+	color: black;
 	margin: auto;
 	text-align: center;
+	text-shadow: 0 0 1px blue;
 }
 .red {
 	color: red;
@@ -12,7 +10,7 @@ body {
 div.polaroid {
 	max-width: 80%;
 	background-color: white;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.31), 0 6px 20px 0 rgba(0, 0, 0, 0.31);
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.31), 0 6px 20px 0 rgba(0, 0, 0, 0.31);
 	display: block;
 	margin: auto;
 }
