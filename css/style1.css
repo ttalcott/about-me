@@ -1,6 +1,6 @@
 header {
 	background: black;
-	color: white;
+	color: rgba(226, 227, 229, 1.0);
 	text-align: center;
 	width: 100%;
 	padding: 1px;
@@ -12,7 +12,7 @@ body {
 	padding: 0;
 }
 .red {
-	color: red;
+	color: rgba(227, 8, 19, 1.0);
 }
 div.polaroid {
 	max-width: 80%;
