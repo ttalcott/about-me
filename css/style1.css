@@ -1,8 +1,10 @@
+body {
+	background: linear-gradient(rgba(35, 33, 34, 1.0), white)
+}
 .header {
-	background: rgba(0, 16, 133, 1.0);
 	color: white;
 	margin: auto;
-
+	text-align: center;
 }
 .red {
 	color: red;
