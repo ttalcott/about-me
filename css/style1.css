@@ -1,18 +1,8 @@
-h1 {
-	color: firebrick;
-	text-align: center;
-	text-decoration: underline;
-	font-size: 6.25em;
-	margin: 0;
-	padding: 0;
-	max-width: 100%;
-	height: auto
-}
-h2 {
-	text-align: center;
-	color: firebrick;
-	font-size: 3em;
-	margin-top: 2px;
+.header {
+	background: rgba(0, 16, 133, 1.0);
+	color: white;
+	margin: auto;
+
 }
 .red {
 	color: red;
@@ -20,10 +10,34 @@ h2 {
 div.polaroid {
 	max-width: 80%;
 	background-color: white;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	margin-bottom: 25px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.31), 0 6px 20px 0 rgba(0, 0, 0, 0.31);
+	display: block;
+	margin: auto;
 }
 div.container {
 	text-align: center;
 	padding: 10px 20px;
+}
+.canyon {
+	height: auto;
+	max-width: 100%;
+}
+div.img {
+	margin: 5px;
+	border: 1px solid #cccccc;
+	float: left;
+	width: 200px;
+	height: auto;
+}
+div.img:hover {
+	border: 1px solid #777;
+}
+div.img img {
+	width: 100%;
+	height: auto;
+}
+div.responsive {
+	padding: 0 6px;
+	float: left;
+	width: 24.99999%
 }

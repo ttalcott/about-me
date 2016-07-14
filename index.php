@@ -6,7 +6,7 @@
 		<title>About Me</title>
 	</head>
 	<body>
-		<header>
+		<header class="header">
 			<h1>About Me</h1>
 			<h2>A short web page all about Travis Talcott</h2>
 			<!--add picture here-->
@@ -21,15 +21,21 @@
 			</p>
 			<!--picture of grand canyon-->
 			<div class="polaroid">
-				<img src="images/grandCanyon.jpeg" alt="Grand Canyon" style="max-width: 100% height: auto" />
+				<img class="canyon" src="images/grandCanyon.jpeg" alt="Grand Canyon" />
 				<div class="container">
 					<p> I will be hiking the Grand Canyon rim-to-rim... In a day!</p>
 				</div>
 			</div>
-			
+			<div class="responsive">
+				<div class="img">
+					<img src="images/indie.jpg" alt="Indie Cat" width="1000" height="450"/>
+				</div>
+			</div>
+			<div class="responsive">
+				<div class="img">
+					<img src="images/aurora.jpg" alt="Aurora" width="650" height="450" />
+				</div>
+			</div>
 		</main>
-		<footer>
-			&copy; Travis Talcott 2016
-		</footer>
 	</body>
 </html>
