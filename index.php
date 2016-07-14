@@ -5,12 +5,12 @@
 		<link href="css/style1.css" rel="stylesheet" type="text/css" />
 		<title>About Me</title>
 	</head>
+	<header>
+		<h1>About Me</h1>
+		<h2>A short web page all about Travis Talcott</h2>
+		<!--add picture here-->
+	</header>
 	<body>
-		<header class="header">
-			<h1>About Me</h1>
-			<h2>A short web page all about Travis Talcott</h2>
-			<!--add picture here-->
-		</header>
 		<main>
 			<!--short paragraph about interests-->
 			<p class="red"> 

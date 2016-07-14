@@ -1,8 +1,16 @@
-.header {
+header {
 	color: black;
-	margin: auto;
 	text-align: center;
-	text-shadow: 0 0 1px blue;
+	text-shadow: 2px 1px rgba(211, 211, 211, 1.0);
+	background-color: white;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+body {
+	background-color: slategray;
+	margin: 0;
+	padding: 0;
 }
 .red {
 	color: red;
@@ -10,7 +18,7 @@
 div.polaroid {
 	max-width: 80%;
 	background-color: white;
-	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.31), 0 6px 20px 0 rgba(0, 0, 0, 0.31);
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.31), 0 12px 20px 0 rgba(0, 0, 0, 0.45);
 	display: block;
 	margin: auto;
 }
