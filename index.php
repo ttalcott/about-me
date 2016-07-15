@@ -13,12 +13,7 @@
 		</header>
 		<main>
 			<div class="interests">
-				<p>
-					My name is Travis Talcott and I was born in Albuquerque, New Mexico on April 10th, 1996. 
-				</p>
-			</div>
-			<div class="interests">
-				<p> I have a few hobbies that I really enjoy doing. They are: playing guitar, writing songs, fly fishing, hiking with my dog, golfing, and working as a sound engineer.
+				<p> My name is Travis Talcott and I was born in Albuquerque, New Mexico on April 10th, 1996! I have a few hobbies that I really enjoy doing. They are: playing guitar, writing songs, fly fishing, hiking with my dog, golfing, and working as a sound engineer.
 				</p>
 			</div>
 			<section id="photo-grid">
@@ -43,8 +38,24 @@
 			</div>
 			<div class="interests">
 				<p>
-					A long standing joke people always like to make about me is how I am a zookeeper. This is in reference to how many animals my girlfriend and I take care of. In reality it is very ironic because Madison's father is the director of the Biopark here in Albuquerque.
+					A long standing joke people always like to make about me is how I am a zookeeper which is a reference to how many animals my girlfriend and I take care of. In reality it is very ironic because Madison's father is the director of the Biopark here in Albuquerque... Plus I really don't think 3 cats, 3 fish, 1 dog and a ball python is enough to warrant the title of being a zookeeper.
 				</p>
+			</div>
+			<div class="indieCat">
+				<img src="images/indie.jpg" />
+				<div class="indie-container">
+					<p>
+						Indie (my cat)
+					</p>
+				</div>
+			</div>
+			<div class="auroraCat">
+				<img src="images/aurora.jpg" />
+				<div class="aurora-container">
+					<p>
+						Aurora (Madison and my first cat)
+					</p>
+				</div>
 			</div>
 		</main>
 	</body>

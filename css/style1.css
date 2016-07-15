@@ -70,12 +70,11 @@ div.polaroid {
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.31), 0 12px 20px 0 rgba(0, 0, 0, 0.45);
 	display: block;
 	margin: 16px auto 16px auto;
-	padding: 5px;
 	position: relative;
 }
 div.container {
 	text-align: center;
-	padding: 5px 5px;
+	padding: 2px 2px;
 	font-size: large;
 	font-family: sans-serif;
 }
@@ -84,4 +83,9 @@ div.container {
 	max-width: 100%;
 	position: relative;
 }
+.indieCat {
 
+}
+.indie-container {
+
+}
