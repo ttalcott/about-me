@@ -13,17 +13,11 @@
 		</header>
 		<main>
 			<!--short paragraph about interests-->
-			<div>
-				<p> 
+			<div class="interests">
+				<p> I have a few hobbies that I really enjoy doing. They are: fly fishing, running, playing guitar, golfing, and working as a sound engineer. 
 				</p>
 			</div>
 			<!--add picture(s) here-->
-			<div class="interests">
-				<p>
-					blah blah blah
-				</p>
-			</div>
-			<!--picture of grand canyon-->
 			<div class="polaroid">
 				<img class="canyon" src="images/grandCanyon.jpeg" alt="Grand Canyon" />
 				<div class="container">
