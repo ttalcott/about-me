@@ -65,9 +65,22 @@
 					</p>
 				</div>
 			</div>
-			<section id="restOfPets">
-				
-			</section>
+			<div class="rest-of-pets">
+				<img src="images/rosco.JPG" />
+				<div class="rest-of-pets-desc">
+					<p>
+						Rosco our little rescue puppy
+					</p>
+				</div>
+			</div>
+			<div class="rest-of-pets">
+				<img src="images/snape.jpg" />
+				<div class="rest-of-pets-desc">
+					<p>
+						Snape my baby ball python
+					</p>
+				</div>
+			</div>
 		</main>
 	</body>
 </html>
