@@ -84,23 +84,4 @@ div.container {
 	max-width: 100%;
 	position: relative;
 }
-div.img {
-	margin: 5px;
-	border: 1px solid #cccccc;
-	float: left;
-	width: 200px;
-	height: auto;
-}
-div.img:hover {
-	border: 1px solid #777;
-}
-div.img img {
-	width: 100%;
-	height: auto;
-}
-div.responsive {
-	padding: 0 6px;
-	float: left;
-	width: 24.99999%
-}
 

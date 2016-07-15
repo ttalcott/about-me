@@ -25,21 +25,16 @@
 				<img src="images/hiking.jpg" />
 				<img src="images/writingMusic.jpg" />
 			</section>
+			<div class="interests">
+				<p>
+					
+				</p>
+			</div>
 			<!--add picture(s) here-->
 			<div class="polaroid">
 				<img class="canyon" src="images/grandCanyon.jpeg" alt="Grand Canyon" />
 				<div class="container">
 					<p> I will be hiking the Grand Canyon rim-to-rim... In a day!</p>
-				</div>
-			</div>
-			<div class="responsive">
-				<div class="img">
-					<img src="images/indie.jpg" alt="Indie Cat" width="1000" height="450"/>
-				</div>
-			</div>
-			<div class="responsive">
-				<div class="img">
-					<img src="images/aurora.jpg" alt="Aurora" width="650" height="450" />
 				</div>
 			</div>
 		</main>
