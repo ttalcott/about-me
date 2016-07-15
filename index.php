@@ -41,22 +41,33 @@
 					A long standing joke people always like to make about me is how I am a zookeeper which is a reference to how many animals my girlfriend and I take care of. In reality it is very ironic because Madison's father is the director of the Biopark here in Albuquerque... Plus I really don't think 3 cats, 3 fish, 1 dog and a ball python is enough to warrant the title of being a zookeeper.
 				</p>
 			</div>
-			<div class="indieCat">
+			<div class="cat">
 				<img src="images/indie.jpg" />
-				<div class="indie-container">
+				<div class="cat-container">
 					<p>
 						Indie (my cat)
 					</p>
 				</div>
 			</div>
-			<div class="auroraCat">
+			<div class="cat">
 				<img src="images/aurora.jpg" />
-				<div class="aurora-container">
+				<div class="cat-container">
 					<p>
 						Aurora (Madison and my first cat)
 					</p>
 				</div>
 			</div>
+			<div class="cat">
+				<img src="images/nala.jpg" />
+				<div class="cat-container">
+					<p>
+						Nala (Madison's baby)
+					</p>
+				</div>
+			</div>
+			<section id="restOfPets">
+				
+			</section>
 		</main>
 	</body>
 </html>
