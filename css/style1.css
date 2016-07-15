@@ -1,9 +1,9 @@
-header {
+.head-foot {
 	background: black;
 	color: rgba(226, 227, 229, 1.0);
 	text-align: center;
 	width: 100%;
-	padding: 1px;
+	padding: 10px;
 	font-family: sans-serif;
 }
 body {
@@ -15,15 +15,14 @@ body {
 	display: block;
 	font-family: sans-serif;
 	font-size: medium;
-	background-color: white;
+	background-image: url(../images/div-background.jpg);
 	max-width: 80%;
 	text-align: center;
-	position: relative;
 	margin: 16px auto 16px auto;
 	padding: 2px;
 	box-shadow: 2px 8px 16px 2px rgba(0, 0, 0, 0.31), 2px 12px 20px 2px rgba(0, 0, 0, 0.45);
 }
-#photo-grid {
+.photo-grid {
 	line-height: 0;
 	-webkit-column-count: 5;
 	-webkit-column-gap: 0;
@@ -32,33 +31,33 @@ body {
 	column-count: 5;
 	column-gap: 0;
 }
-#photo-grid img {
+.photo-grid img {
 	width: 100%;
 	height: auto;
 }
 @media (max-width: 1200px) {
-	#photo-grid {
+	.photo-grid {
 		-moz-column-count: 4;
 		-webkit-column-count: 4;
 		column-count: 4;
 	}
 }
 @media (max-width: 1000px) {
-	#photo-grid {
+	.photo-grid {
 		-moz-column-count: 3;
 		-webkit-column-count: 3;
 		column-count: 3;
 	}
 }
 @media (max-width: 800px) {
-	#photo-grid {
+	.photo-grid {
 		-moz-column-count: 2;
 		-webkit-column-count: 2;
 		column-count: 2;
 	}
 }
 @media (max-width: 400px) {
-	#photo-grid {
+	.photo-grid {
 		-moz-column-count: 1;
 		-webkit-column-count: 1;
 		column-count: 1;
@@ -84,24 +83,37 @@ div.container {
 	position: relative;
 }
 .cat {
-	margin: 40px;
-	width: auto;
-	background-color: white;
-	float: left;
-	box-shadow: 2px 8px 16px 2px rgba(0, 0, 0, 0.31), 2px 12px 20px 2px rgba(0, 0, 0, 0.45);
+	line-height: 0;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 0;
+	-moz-column-count: 3;
+	-moz-column-gap: 0;
+	column-count: 3;
+	column-gap: 0;
 }
-.cat-container {
-	padding: 2px;
+.cat img {
+	width: 100%;
+	height: auto;
+}
+@media (max-width: 800px) {
+	.cat {
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		column-count: 2;
+	}
+}
+@media (max-width: 400px) {
+	.cat {
+		-moz-column-count: 1;
+		-webkit-column-count: 1;
+		column-count: 1;
+	}
+}
+.foot{
+	background-color: black;
+	color: rgba(226, 227, 229, 1.0);
 	text-align: center;
-}
-.rest-of-pets {
-	float: right;
-	position: relative;
-	margin: 50px 150px 50px 30px;
-	background-color: white;
-	box-shadow: 2px 8px 16px 2px rgba(0, 0, 0, 0.31), 2px 12px 20px 2px rgba(0, 0, 0, 0.45);
-}
-.rest-of-pets-desc {
-	padding: 2px;
-	text-align: center;
+	width: 100%;
+	padding: 30px;
+	font-family: sans-serif;
 }
