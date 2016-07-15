@@ -16,7 +16,7 @@ body {
 	font-family: sans-serif;
 	font-size: medium;
 	background-color: white;
-	max-width: 75%;
+	max-width: 80%;
 	text-align: center;
 	position: relative;
 	margin: 16px auto 16px auto;
@@ -25,7 +25,6 @@ body {
 }
 div.polaroid {
 	max-width: 80%;
-	max-height: 80%;
 	background-color: white;
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.31), 0 12px 20px 0 rgba(0, 0, 0, 0.45);
 	display: block;

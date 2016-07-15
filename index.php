@@ -14,9 +14,15 @@
 		<main>
 			<!--short paragraph about interests-->
 			<div class="interests">
-				<p> I have a few hobbies that I really enjoy doing. They are: fly fishing, running with my dog, playing guitar, golfing, and working as a sound engineer.
+				<p> I have a few hobbies that I really enjoy doing. They are: playing guitar, writing songs, fly fishing, hiking with my dog, golfing, and working as a sound engineer.
 				</p>
 			</div>
+			<section id="photo-grid">
+				<img src="images/playingGuitar.jpg" />
+				<img src="images/golfing.jpg" />
+				<img src="images/soundEngineer.jpg" />
+				<img src="images/flyFishing.jpg" />
+			</section>
 			<!--add picture(s) here-->
 			<div class="polaroid">
 				<img class="canyon" src="images/grandCanyon.jpeg" alt="Grand Canyon" />
