@@ -50,3 +50,10 @@ div.responsive {
 	float: left;
 	width: 24.99999%
 }
+.interests {
+	background-color: white;
+	width: 75%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}

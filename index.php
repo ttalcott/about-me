@@ -13,12 +13,16 @@
 		</header>
 		<main>
 			<!--short paragraph about interests-->
-			<p class="red"> 
-			</p>
+			<div>
+				<p> 
+				</p>
+			</div>
 			<!--add picture(s) here-->
-			<p>
-				<!--paragraph about what i do on the daily-->
-			</p>
+			<div class="interests">
+				<p>
+					blah blah blah
+				</p>
+			</div>
 			<!--picture of grand canyon-->
 			<div class="polaroid">
 				<img class="canyon" src="images/grandCanyon.jpeg" alt="Grand Canyon" />
