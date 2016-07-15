@@ -22,6 +22,8 @@
 				<img src="images/golfing.jpg" />
 				<img src="images/soundEngineer.jpg" />
 				<img src="images/flyFishing.jpg" />
+				<img src="images/hiking.jpg" />
+				<img src="images/writingMusic.jpg" />
 			</section>
 			<!--add picture(s) here-->
 			<div class="polaroid">
