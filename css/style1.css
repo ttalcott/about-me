@@ -95,8 +95,13 @@ div.container {
 	text-align: center;
 }
 .rest-of-pets {
-
+	float: right;
+	position: relative;
+	margin: 50px 150px 50px 30px;
+	background-color: white;
+	box-shadow: 2px 8px 16px 2px rgba(0, 0, 0, 0.31), 2px 12px 20px 2px rgba(0, 0, 0, 0.45);
 }
 .rest-of-pets-desc {
-
+	padding: 2px;
+	text-align: center;
 }

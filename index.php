@@ -81,6 +81,11 @@
 					</p>
 				</div>
 			</div>
+			<div class="interests">
+				<p>
+					To sum myself up: I love anumals and take pride in the activities I choose to do. I hope you all liked learning about me!
+				</p>
+			</div>
 		</main>
 	</body>
 </html>
