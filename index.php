@@ -12,7 +12,11 @@
 			<!--add picture here-->
 		</header>
 		<main>
-			<!--short paragraph about interests-->
+			<div class="interests">
+				<p>
+					My name is Travis Talcott and I was born in Albuquerque, New Mexico on April 10th, 1996. 
+				</p>
+			</div>
 			<div class="interests">
 				<p> I have a few hobbies that I really enjoy doing. They are: playing guitar, writing songs, fly fishing, hiking with my dog, golfing, and working as a sound engineer.
 				</p>
@@ -27,15 +31,20 @@
 			</section>
 			<div class="interests">
 				<p>
-					
+					I like to stay busy and I am always searching for something new to accomplish. Last year it was running a marathon in Portland. This year I will be attempting to hike the Grand Canyon rim-to-rim in a day! I will not be going alone though. My girlfriend Madison, my mom, my sister Roushon, her boyfriend, and my second parents (my two next-door neighbors I grew up with) will be conquering this feat with me. It will not be easy but it will surely be an adventure!
 				</p>
 			</div>
 			<!--add picture(s) here-->
 			<div class="polaroid">
 				<img class="canyon" src="images/grandCanyon.jpeg" alt="Grand Canyon" />
 				<div class="container">
-					<p> I will be hiking the Grand Canyon rim-to-rim... In a day!</p>
+					<p> My next goal... At least it's beautiful!</p>
 				</div>
+			</div>
+			<div class="interests">
+				<p>
+					A long standing joke people always like to make about me is how I am a zookeeper. This is in reference to how many animals my girlfriend and I take care of. In reality it is very ironic because Madison's father is the director of the Biopark here in Albuquerque.
+				</p>
 			</div>
 		</main>
 	</body>
